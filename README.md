@@ -3,6 +3,7 @@ Currently implements:
 - Connection
 - Table parsing
 - Markers addition
+
 TODO:
 - Markers enhancment
 - Media cut/edit
